@@ -17,7 +17,7 @@ namespace StarterKit.UnitTests
             var result = valueController.Get();
 
             //Assert
-            Assert.Equal(2, result.Count());
+            Assert.Equal(1, result.Count());
         }
     }
 }
